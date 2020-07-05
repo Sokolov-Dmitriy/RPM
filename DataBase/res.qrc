@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>sqlLogo.png</file>
+    </qresource>
+</RCC>
